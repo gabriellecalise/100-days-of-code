@@ -1,30 +1,11 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: January 3, 2017
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: I started my 100 Days by beginning to code a tribute page on Frida Kahlo (I just saw the new Kahlo exhibit at the Dali Museum in St. Petersburg and I absolutely loved it). The tribute page is one of the challenges on FreeCodeCamp.com (https://www.freecodecamp.com/challenges/build-a-tribute-page). Today I created an account on Code Pen and coded the basic HTML for my project. I found some design inspiration online as well as some free images that are licensed through Creative Commons that I can use for my page.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts** The first hour of coding really flew by. I am excited to try some new things and get better with Bootstrap with this project.
 
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to my work**
+1. Frida Kahlo tribute page
+(https://codepen.io/gabriellecalise/pen/ZLExPQ)
