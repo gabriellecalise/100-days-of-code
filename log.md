@@ -1,5 +1,10 @@
 # 100 Days Of Code - Log
 
+##Day 2: January 4, 2017##
+**Today's Progress**: I want to code my tribute page using Bootstrap so that it looks nice in mobile but I feel very rusty with Bootstrap. I decided to complete some of the Responsive Design With Bootstrap challenges on Free Code Camp. I went through challenges on how to center text, make images responsive, create buttons, align text and images, etc. I also learned how to add Font Awesome images to buttons, which was pretty cool! I made sure to take notes so that I can refer back to everything when I am coding the Tribute Page (and doing future projects!)
+
+**Thoughts** I am very happy that I took a day to practice Bootstrap exercises. I'm still new to coding and I found today to be a helpful refresher, plus I learned a few new things. I love the Bootstrap challenges on Free Code Camp and the way they explain the Bootstrap grid system is very clear. Tomorrow I think I'll try a few more and then actually apply it to my Tribute Page so it looks pretty. 
+
 ### Day 1: January 3, 2017
 
 **Today's Progress**: I started my 100 Days by beginning to code a tribute page on Frida Kahlo (I just saw the new Kahlo exhibit at the Dali Museum in St. Petersburg and I absolutely loved it). The tribute page is one of the challenges on FreeCodeCamp.com (https://www.freecodecamp.com/challenges/build-a-tribute-page). Today I created an account on Code Pen and coded the basic HTML for my project. I found some design inspiration online as well as some free images that are licensed through Creative Commons that I can use for my page.
