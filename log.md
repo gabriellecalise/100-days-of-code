@@ -1,7 +1,15 @@
 # 100 Days Of Code - Log
 
+#Day 5: January 7, 2017##
+**Today's Progress**: I took a break from the Tribute page to try some JQuery exercises. I did 10 exercises on FreeCodeCamp and took some notes on what I learned.
+
+**Thoughts** I did about 30 minutes of work and then I had to stop because it was really late. I feel bad because I didn't make the whole hour, but earlier this week I worked for several hours in a row on multiple days, so I feel like it about evens out. I figured that even a little bit is better than nothing, but I'm going to try to do more tomorrow.
+
+**Link to my work**
+https://www.freecodecamp.com/gabriellecalise (Note - I did some of this past midnight, so some of the challenges that I'm counting as Jan. 7 work show up under Jan. 8)
+
 ##Day 4: January 6, 2017##
-**Today's Progress**: I added more to my Frida Kahlo page, including the timeline and other photos. 
+**Today's Progress**: I added more to my Frida Kahlo page, including the timeline and other photos.
 
 **Thoughts** It's difficult to find an hour every day to code, especially since classes are starting to pick up again. I'm glad I'm doing this though!
 
