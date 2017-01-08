@@ -1,9 +1,24 @@
 # 100 Days Of Code - Log
 
+##Day 4: January 6, 2017##
+**Today's Progress**: I added more to my Frida Kahlo page, including the timeline and other photos. 
+
+**Thoughts** It's difficult to find an hour every day to code, especially since classes are starting to pick up again. I'm glad I'm doing this though!
+
+##Day 3: January 5, 2017##
+**Today's Progress**: I added CSS to my tribute page. I am very glad that I reviewed Bootstrap because it is way easier to use the grid system to put images and text next to each other than having to deal with floats. I coded for almost two hours, but I am having trouble with this white border around my page. Will try to solve it tomorrow.
+
+**Thoughts** I am really pleased with what this looks like. CodePen.io is helpful, but it would be easier to use it on a bigger laptop. I am still happy with how this piece is going and I'm taking my time making it look nice because I want this to be a portfolio piece (Note-- I want to design a really nice portfolio home page at some point during this challenge)
+
+**Link to my work**
+1. Frida Kahlo tribute page (UNFINISHED)
+(https://codepen.io/gabriellecalise/pen/ZLExPQ)
+
+
 ##Day 2: January 4, 2017##
 **Today's Progress**: I want to code my tribute page using Bootstrap so that it looks nice in mobile but I feel very rusty with Bootstrap. I decided to complete some of the Responsive Design With Bootstrap challenges on Free Code Camp. I went through challenges on how to center text, make images responsive, create buttons, align text and images, etc. I also learned how to add Font Awesome images to buttons, which was pretty cool! I made sure to take notes so that I can refer back to everything when I am coding the Tribute Page (and doing future projects!)
 
-**Thoughts** I am very happy that I took a day to practice Bootstrap exercises. I'm still new to coding and I found today to be a helpful refresher, plus I learned a few new things. I love the Bootstrap challenges on Free Code Camp and the way they explain the Bootstrap grid system is very clear. Tomorrow I think I'll try a few more and then actually apply it to my Tribute Page so it looks pretty. 
+**Thoughts** I am very happy that I took a day to practice Bootstrap exercises. I'm still new to coding and I found today to be a helpful refresher, plus I learned a few new things. I love the Bootstrap challenges on Free Code Camp and the way they explain the Bootstrap grid system is very clear. Tomorrow I think I'll try a few more and then actually apply it to my Tribute Page so it looks pretty.
 
 ### Day 1: January 3, 2017
 
