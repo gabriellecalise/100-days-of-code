@@ -9,7 +9,8 @@ Also, it was really awesome to run the files through an HTML and CSS validator a
 The only thing that's driving me crazy is this white line around the top, side and bottom of the site. I'm going to see if anyone can help me fix that.
 
 **Link to my work**
-It's up on my personal site! Finally. 
+It's up on my personal site! Finally.
+http://gabriellecalise.com/frida-kahlo-tribute/ 
 
 
 #Day 5: January 7, 2017##
