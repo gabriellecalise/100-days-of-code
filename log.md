@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+
+#Day 6: January 8, 2017##
+**Today's Progress**: I finished my Frida Kahlo tribute page! I added more photos and changed the style so that the timeline looks better. I learned how to add space between li elements (add margin to the li element in css, NOT ul. Good to know) as well as how to center images in Bootstrap columns.
+
+**Thoughts** This was not as bad as I thought it would be. I coded in the morning and I think it was easier to do it earlier in the day than later. I'm hoping I can make this a habit.
+Also, it was really awesome to run the files through an HTML and CSS validator and only have one error (a stray div tag)!
+The only thing that's driving me crazy is this white line around the top, side and bottom of the site. I'm going to see if anyone can help me fix that.
+
+**Link to my work**
+It's up on my personal site! Finally. 
+
+
 #Day 5: January 7, 2017##
 **Today's Progress**: I took a break from the Tribute page to try some JQuery exercises. I did 10 exercises on FreeCodeCamp and took some notes on what I learned.
 
