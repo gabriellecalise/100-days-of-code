@@ -1,7 +1,15 @@
 # 100 Days Of Code - Log
 
+
+#Day 8: January 10, 2017##
+**Today's Progress** After examining my code with my professor, I realized that the white line around my project was an accident -- I had two body elements in my CSS file and one of them had 20px. I deleted that, but the page still wouldn't load. I tried fixing it in Codepen and the top part of the page lost the padding (still not sure what's up with the sides, but it appears only on the header image -- the footer actually looks like a footer now). To solve the problem, I just made a new folder, pasted in my fixed code to a new HTML and CSS file, and then re-uploaded to my website.
+I also looked into creating a new portfolio page. I think that will be my next challenge. 
+
+**Link to my work**
+http://gabriellecalise.com/frida-kahlo-tribute/
+
 #Day 7: January 9, 2017##
-**Today's Progress** Yesterday after I uploaded my page to my site I realized that it looked HORRIBLE on mobile. Just awful. The first image looked half-loaded on ipads, iphones and other browsers. Today I sized the image down and that helped. I am so relieved. I also added background-size: cover; to my Css page for the background image of the headline. It doesn't look perfect (seriously, what's the deal with the white border that runs around the whole page? I don't understand.) However, I can live with it for now. I'm going to show it to my professor and see if she knows what's up.
+**Today's Progress** Yesterday after I uploaded my page to my site I realized that it looked HORRIBLE on mobile. Just awful. The first image looked half-loaded on ipads, iphones and other browsers. Today I sized the image down and that helped. I am so relieved. I also added background-size: cover; to my Css page for the background image of the headline. It doesn't look perfect (seriously, what's the deal with the white border that runs around the whole page? I don't understand.) However, I can live with it for now. Progress is slow but at least I'm making steps in the right direction.
 
 **Thoughts** I'm learning a lot and this is coming along. I had to re-upload the new version on my page but I'm glad I fixed it.
 
