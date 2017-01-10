@@ -1,5 +1,15 @@
 # 100 Days Of Code - Log
 
+#Day 7: January 9, 2017##
+**Today's Progress** Yesterday after I uploaded my page to my site I realized that it looked HORRIBLE on mobile. Just awful. The first image looked half-loaded on ipads, iphones and other browsers. Today I sized the image down and that helped. I am so relieved. I also added background-size: cover; to my Css page for the background image of the headline. It doesn't look perfect (seriously, what's the deal with the white border that runs around the whole page? I don't understand.) However, I can live with it for now. I'm going to show it to my professor and see if she knows what's up.
+
+**Thoughts** I'm learning a lot and this is coming along. I had to re-upload the new version on my page but I'm glad I fixed it.
+
+**Link to my work**
+http://gabriellecalise.com/frida-kahlo-tribute/
+
+
+
 
 #Day 6: January 8, 2017##
 **Today's Progress**: I finished my Frida Kahlo tribute page! I added more photos and changed the style so that the timeline looks better. I learned how to add space between li elements (add margin to the li element in css, NOT ul. Good to know) as well as how to center images in Bootstrap columns.
@@ -10,7 +20,7 @@ The only thing that's driving me crazy is this white line around the top, side a
 
 **Link to my work**
 It's up on my personal site! Finally.
-http://gabriellecalise.com/frida-kahlo-tribute/ 
+http://gabriellecalise.com/frida-kahlo-tribute/
 
 
 #Day 5: January 7, 2017##
