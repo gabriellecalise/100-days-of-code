@@ -1,9 +1,19 @@
 # 100 Days Of Code - Log
 
+#Day 10: January 12, 2017##
+**Today's Progress** I finished the SQL Khan Academy challenges that I started yesterday and I made a database with SQL Lite!
+
+**Link to my work**
+https://www.khanacademy.org/computer-programming/spin-off-of-project-design-a-store-database/5116523635605504
+
+
+#Day 9: January 11, 2017##
+**Today's Progress** I started to learn about SQL today. I didn't code for a full hour because I was doing an assignment with my internship that took up most of the day but I managed to do half of a Khan Academy module on beginning SQL
+
 
 #Day 8: January 10, 2017##
 **Today's Progress** After examining my code with my professor, I realized that the white line around my project was an accident -- I had two body elements in my CSS file and one of them had 20px. I deleted that, but the page still wouldn't load. I tried fixing it in Codepen and the top part of the page lost the padding (still not sure what's up with the sides, but it appears only on the header image -- the footer actually looks like a footer now). To solve the problem, I just made a new folder, pasted in my fixed code to a new HTML and CSS file, and then re-uploaded to my website.
-I also looked into creating a new portfolio page. I think that will be my next challenge. 
+I also looked into creating a new portfolio page. I think that will be my next challenge.
 
 **Link to my work**
 http://gabriellecalise.com/frida-kahlo-tribute/
