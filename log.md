@@ -1,5 +1,34 @@
 # 100 Days Of Code - Log
 
+
+#Day 11: January 16, 2017##
+**Today's Progress** I continued to search for inspiration for journalism portfolios and I added more content to my page!
+
+
+#Day 10: January 15, 2017##
+**Today's Progress** I started on a personal portfolio page today. This is one of the FreeCodeCamp challenges (https://www.freecodecamp.com/challenges/build-a-personal-portfolio-webpage), but I am not really very crazy about the design of the page in the challenge. The original project is going to serve as an inspiration but I plan to tweak it a good amount -- I'll add more content than just my coding projects, but as far as design goes I am going to make my page look more modern and minimal.
+
+I will be using Bootstrap because I think the Bootstrap navigation bar looks lovely, especially on mobile devices. I mainly focused on creating the navbar today and used a combination of tutorials. At first I used some of this video tutorial:  https://www.youtube.com/watch?v=qpWlaOeGZ_4. I also used some of the code from this tutorial and then customized it to fit my needs: http://www.tutorialrepublic.com/twitter-bootstrap-tutorial/bootstrap-navbar.php)
+The bar looks good but now I need to set up the links so that the buttons actually take you to a different part of the page. I also want a sub-menu so that when the user clicks on the "portfolio" button, a drop-down menu shows tabs for writing samples (a mix of print and digital as well as feature stories and hard news), photography samples (portraits/commercial work that I've done, concert photography and photojournalism stuff), coding projects (I want my tribute page, my project called The American Woman, my music sampler, and probably some maps that I've created too.)
+
+As I'm writing this I realize that this is going to probably be a bigger project than I originally thought. I want this to be my website that has everything on it, not just a web developer portfolio.
+
+**Link to my work**
+http://codepen.io/gabriellecalise/pen/RKGVxL?editors=1000
+
+**Links to design inspiration**
+I think my tribute page turned out really nice because I took the time to gather inspiration from other designers before I started, so I did that again for the portfolio page project.
+
+I like how this page functions, especially with the navbar at the top and the buttons with links to different social media profiles.   http://codepen.io/Em-Ant/pen/xGoQjr?editors=1100
+
+I like the simple layout and fresh color palette/fonts used here http://codepen.io/MightyShaban/pen/eGaCf
+
+This page has a cool button that sticks to the bottom lefthand corner and takes the viewer to the top whenever they click on it. I would love to learn how to do something like this: http://codepen.io/dagman/pen/WwKrgX
+
+
+#BREAK: January 13 and 14##
+I traveled to Jacksonville to visit my boyfriend's family and didn't get a chance to code! I'm not counting these two days in the 100 Days, obviously
+
 #Day 10: January 12, 2017##
 **Today's Progress** I finished the SQL Khan Academy challenges that I started yesterday and I made a database with SQL Lite!
 
